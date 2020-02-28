@@ -1,0 +1,1 @@
+I have user Merge Sort algorithm to solve this problem. Size of the file with amount of data to be sorted played a role in selection of merge algorithm. Divide and conquer approach seemed right with large data set. TimeSpace complexity for the merge sort is O(n) in worst case.
